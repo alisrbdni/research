@@ -1,10 +1,6 @@
 # Federated Learning Research Repository for Natural Language Processing
 
-Welcome to our dedicated repository for cutting-edge research in federated learning applied to natural language processing. This collection of notebooks is designed to help researchers and practitioners explore various techniques in language model training in a decentralized and privacy-preserving manner.
-
-# Federated Learning Research Repository for Natural Language Processing
-
-Welcome to our dedicated repository for cutting-edge research in federated learning applied to natural language processing. This collection of notebooks is designed to help researchers and practitioners explore various techniques in language model training in a decentralized and privacy-preserving manner.
+Welcome to dedicated repository for research in federated learning applied to natural language processing. This collection of notebooks is designed to help researchers and practitioners explore various techniques in language model training in a decentralized and privacy-preserving manner.
 
 ## Repository Structure
 
