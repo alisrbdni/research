@@ -12,21 +12,11 @@ All notebooks are fully interactive and can be run directly in Google Colab to e
    
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisrbdni/research/blob/main/LLM_fine_tuning_with_Flower.ipynb)
 
-2. **Privacy-Preserving Text Analytics**: This notebook explores techniques for performing text analytics in a federated setting, ensuring data privacy while extracting meaningful insights from distributed text data.
+2. **Federated Learning With Flower for NLP albert_base_v2**: This notebook explores techniques federated learning setting, ensuring data privacy while extracting meaningful insights from distributed text data.
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisrbdni/research/blob/main/Privacy_Preserving_Text_Analytics.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisrbdni/research/blob/main/Federated_learning_with_flower_nlp_MLM_albert_base_v2.ipynb)
 
-3. **Sentiment Analysis Using Federated Learning**: Learn how to train sentiment analysis models across multiple decentralized datasets without compromising user privacy.
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisrbdni/research/blob/main/Sentiment_Analysis_Federated.ipynb)
-
-4. **Federated Learning for Named Entity Recognition (NER)**: This notebook demonstrates the training of a named entity recognition model using federated learning techniques to benefit from diverse datasets without central collection.
-
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisrbdni/research/blob/main/Federated_NER.ipynb)
-
-5. **Multi-language Model Training in Federated Settings**: Explore federated training of models on datasets from multiple languages to enhance model robustness and applicability across different linguistic contexts.
-
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alisrbdni/research/blob/main/Multi_language_Federated_Training.ipynb)
 
 ## Getting Started
 
